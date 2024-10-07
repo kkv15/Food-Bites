@@ -1,10 +1,10 @@
 # FoodBites <img src="https://github.com/adi2109/LocalBites/assets/81423231/b4f0ef34-a1a0-48c1-a270-25597c608a46" height=30 />
 
-LocalBites is a user-friendly online food ordering platform that allows customers to explore a wide range of delicious food options, add them to their cart, and place orders conveniently from the comfort of their homes. Whether you're craving local specialties, international cuisine, or healthy options, LocalBites has you covered.
+FoodBites is a user-friendly online food ordering platform that allows customers to explore a wide range of delicious food options, add them to their cart, and place orders conveniently from the comfort of their homes. Whether you're craving local specialties, international cuisine, or healthy options, LocalBites has you covered.
 
 ## UI Interface
 
-Here's a glimpse of the user interface of the LocalBites application:
+Here's a glimpse of the user interface of the FoodBites application:
 
 ### Home Page
 ![HomePage](https://github.com/adi2109/LocalBites/assets/81423231/c6a6c640-eb4d-4c95-bfa5-8be6af5c563a)
